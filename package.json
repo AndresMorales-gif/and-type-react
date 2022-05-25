@@ -1,0 +1,11 @@
+{
+  "name": "and-type-react",
+  "version": "0.1.0",
+  "description": "Mi propio react",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Morales",
+  "license": "ISC"
+}
